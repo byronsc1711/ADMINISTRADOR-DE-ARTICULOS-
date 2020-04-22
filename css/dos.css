@@ -1,0 +1,18 @@
+table th{
+    background-color: coral;
+}
+
+table th{
+    font-size: 22px;
+}
+
+table td{
+    font-size: 19px;
+}
+
+tr:nth-child(odd){
+    background-color:#dca85c;
+}
+tr:nth-child(even){
+    background-color: seashell;
+}

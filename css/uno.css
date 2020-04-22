@@ -1,0 +1,19 @@
+table th{
+    background-color: coral;
+}
+
+table th{
+    font-size: 22px;
+}
+
+table td{
+    font-size: 19px;
+}
+
+hr{
+    background-color: black;
+}
+
+body {
+    background-color: #fbe68b;
+}
